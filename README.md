@@ -2,7 +2,7 @@
 ### A passionate web developer from Vietnam
 
 - 🔭 I’m currently working with **React, Laravel, Express.js**
-- 🌱 I’m currently learning **Java & Kotlin**
+- 🌱 I’m currently learning **Ruby on Rails**
 - 👨‍💻 All of my projects are available at [https://v-deedee.github.io/Portfolio-1/](https://v-deedee.github.io/Portfolio-1/)
 - 📫 Reach me at **vietanhbg1508@gmail.com**
 
