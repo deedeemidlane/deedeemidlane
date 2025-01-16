@@ -29,11 +29,5 @@
     src="https://github-readme-stats.vercel.app/api?username=deedeemidlane&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false"
     alt="Stats image 1" />
 </p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=deedeemidlane&theme=default_repocard&hide_border=false"
-    alt="Stats image 2" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
